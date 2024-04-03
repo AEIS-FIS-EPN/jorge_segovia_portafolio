@@ -1,8 +1,8 @@
-import React from 'react';
-import fotoPerfil from './fotoPerfil.jpg'; 
-import './App.css';
+import React from 'react'
+import fotoPerfil from './fotoPerfil.jpg'
+import './App.css'
 
-function App() {
+function App () {
   return (
     <div className="App">
       <div className="App-buttons">
@@ -17,7 +17,7 @@ function App() {
         </p>
       </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
